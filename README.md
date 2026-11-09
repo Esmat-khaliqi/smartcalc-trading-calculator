@@ -124,7 +124,7 @@ A practical tool for calculating trading risk and position parameters.
 ### 🎬 Demo & Download
 
 <p align="center">
-You can download the latest version of SmartCalc from the [Releases](../../releases) section.
+You can download the latest version of SmartCalc from the [Releases](../../releases/latest) section.
 Download the installer, run it, and follow the installation instructions to get started.
 </p>
 
