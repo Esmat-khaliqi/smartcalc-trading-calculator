@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>icons/icon_128.ico</file>
+        <file>icons/arrow-down-left.svg</file>
+        <file>icons/arrow-up-right.svg</file>
+        <file>icons/calculator.svg</file>
+        <file>icons/chevron-right_grey.svg</file>
+        <file>icons/calculator_white.svg</file>
+        <file>icons/chevron-right.svg</file>
+        <file>icons/chevron-right_white.svg</file>
+        <file>icons/delete.svg</file>
+        <file>icons/settings-2.svg</file>
+        <file>icons/trending-up.svg</file>
+    </qresource>
+</RCC>
