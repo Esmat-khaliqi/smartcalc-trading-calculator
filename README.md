@@ -121,10 +121,11 @@ A practical tool for calculating trading risk and position parameters.
   <img src="Screenshots/page4.png" alt="SmartCalc Settings Page" width="800"/>
 </p>
 
-### 🎬 Application Demo
+### 🎬 Demo & Download
 
 <p align="center">
-  <img src="PUT_DEMO_GIF_URL_HERE" alt="SmartCalc Application Demo" width="800"/>
+You can download the latest version of SmartCalc from the [Releases](../../releases) section.
+Download the installer, run it, and follow the installation instructions to get started.
 </p>
 
 ---
@@ -432,7 +433,7 @@ For more information, see the [LICENSE](LICENSE) file.
 **Developer:** Your Name
 
 - 📧 Email: esmatmorady2025@gmail.com
-- 🐙 GitHub: [@Esmat-Khaliqi](https://github.com/your-username)
+- 🐙 GitHub: [@Esmat-khaliqi](https://github.com/Esmat-khaliqi)
 
 
 ---
